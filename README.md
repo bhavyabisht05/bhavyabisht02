@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhavyabisht02
+- 👋 Hi, I’m bhavya Bisht
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning how to automate the continuous office tasks 
 - 💞️ I’m looking to collaborate on googel appscript 
